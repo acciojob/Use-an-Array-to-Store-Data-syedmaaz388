@@ -1,3 +1,2 @@
 
-let yourArray = ["Lion",1,true,"Elephant",5];
-console.log(yourArray);
+let yourArray = ["apple", 123, true, null, "orange"];
