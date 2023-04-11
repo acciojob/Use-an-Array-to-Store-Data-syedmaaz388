@@ -1,2 +1,3 @@
 
-let yourArray = ["apple", 123, true, null, "orange"];
+const yourArray = ['Ram' , 2 , true , undefined , null]
+console.log(yourArray);
