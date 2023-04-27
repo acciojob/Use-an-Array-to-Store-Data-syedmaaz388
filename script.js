@@ -1,3 +1,2 @@
 
-const yourArray = ['Ram' , 2 , true , undefined , null]
-console.log(yourArray);
+let yourArray = ['string', 123, true, null, { key: 'value' }];
