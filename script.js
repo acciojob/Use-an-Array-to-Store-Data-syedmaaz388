@@ -1,2 +1,2 @@
 
-let yourArray = ['string', 123, true, null, { key: 'value' }];
+let yourArray = ['apple', 10, true, 'banana', false];
